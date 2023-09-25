@@ -7,4 +7,4 @@ Tecnologias e funcionalidades utilizadas:
 - Biblioteca de ícones font-awesome
 - Media queries e flexbox para responsividade em diversos dispositivos
 
-Confira o resultado final <a href="https://ma7euspinheiro.github.io/hdc-host/" target="_blank">clicando aqui</a>
+Confira o resultado final <a href="https://ma7euspinheiro.github.io/hdc-host/">clicando aqui</a>
